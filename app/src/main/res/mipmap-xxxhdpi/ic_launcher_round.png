@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="Nexus 7" />
+        <device id="wear_square" />
+        <device id="pixel_3_xl" />
+        <device id="Nexus 6" />
+        <device id="pixel_xl" />
+        <device id="Nexus 5X" />
+        <device id="pixel_2" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d21337b4-3819-40c3-a67e-4b451fd7d13d" name="Default Changelist" comment="all">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/Place.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_29" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/attraction_naryn_5.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/attraction_naryn_4.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/HistoryActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_1.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/demarhotel.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/elechek.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/asiamall.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/arthotel.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>intent_extra_item_title</find>
+      <find>drawable.</find>
+      <find>price</find>
+      <find>name</find>
+      <find>title</find>
+      <find>'</find>
+      <find>tour_chicago_architecture</find>
+      <find>food_smoque</find>
+      <find>hotel_peninsula</find>
+      <find>attraction_ik_6</find>
+      <find>attraction_ik_7</find>
+      <find>attraction_ik_1</find>
+      <find>hotel_langham</find>
+      <find>hotel_ace</find>
+      <find>hotel_guesthouse</find>
+      <find>hotel_emc2</find>
+      <find>attraction_ik</find>
+      <find>hotel_kimption</find>
+      <find>attraction_osh_1</find>
+      <find>attraction_osh_2</find>
+      <find>mustsee_wrigley</find>
+      <find>mustsee_mcdonald</find>
+      <find>attraction_osh_6</find>
+      <find>mustsee_loop</find>
+      <find>attraction_ik_</find>
+      <find>attraction_bishkek</find>
+      <find>attraction_osh</find>
+      <find>6</find>
+      <find>bishkek</find>
+      <find>naryn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>attraction_ik_1</replace>
+      <replace>attraction_ik_2</replace>
+      <replace>attraction_ik_3</replace>
+      <replace>attraction_ik_4</replace>
+      <replace>attraction_ik_5</replace>
+      <replace>attraction_ik_6</replace>
+      <replace>attraction_ik_7</replace>
+      <replace>attraction_naryn_1</replace>
+      <replace>ik</replace>
+      <replace>attraction_ik</replace>
+      <replace>attraction_naryn_2</replace>
+      <replace>attraction_naryn_3</replace>
+      <replace>attraction_naryn_4</replace>
+      <replace>attraction_naryn_5</replace>
+      <replace>attraction_naryn</replace>
+      <replace>attraction_osh_1</replace>
+      <replace>attraction_osh_2</replace>
+      <replace>attraction_osh_3</replace>
+      <replace>attraction_osh_4</replace>
+      <replace>attraction_osh_5</replace>
+      <replace>attraction_osh_6</replace>
+      <replace>attraction_osh_</replace>
+      <replace>attraction_osh</replace>
+      <replace>attraction_talas</replace>
+      <replace>1</replace>
+      <replace>2</replace>
+      <replace>3</replace>
+      <replace>4</replace>
+      <replace>5</replace>
+      <replace>talas</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/ShoppingActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/HotelsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/SimpleFragmentPagerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/AttractionsFragmentPagerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/IssykKulFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/AttractionsFragmentPagerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_attractions.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/attractions_category.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/AttractionsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/BishkekActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/IssykKulActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/TalasActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/OshActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/NarynActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/AttractionDetailActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/ItemDetail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/test/MustSeeFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/test/CategoryAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/test/FoodFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/test/HotelFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/test/ItemAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/test/ItemDetail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/detail.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/PlaceToVIsitDetail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/PlaceToVisitDetail.java" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/IssykKulFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/NarynFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/BishkekFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/OshFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/TalasFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/attractions/PlaceDetail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/hotels/HotelsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/shopping/ShoppingActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/HistoryActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/culture/CultureActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_history.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_attraction_detail.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/Place.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/PlaceAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/food/FoodActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/place_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main_1.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/kyrgyzstanguide/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-40" />
+    <option name="y" value="-11" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KyrgyzstanGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KyrgyzstanGuide" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="KyrgyzstanGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KyrgyzstanGuide" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KyrgyzstanGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KyrgyzstanGuide" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="KyrgyzstanGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KyrgyzstanGuide" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+  

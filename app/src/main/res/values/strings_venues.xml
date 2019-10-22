@@ -1,0 +1,127 @@
+<resources>
+    <!-- Ojo de Agua -->
+    <string name="venue_0_title">Iron Man</string>
+
+    <string name="venue_0_intro">Iron Man.</string>
+
+
+    <!-- Punta Jesus Maria -->
+    <string name="venue_1_title">Iron Man1</string>
+
+    <string name="venue_1_intro">Iron Man1.</string>
+
+    <!-- Concepción Volcano -->
+    <string name="venue_2_title">Iron Man2</string>
+
+    <string name="venue_2_intro">Iron Man3.</string>
+
+    <!-- San Ramon Waterfall -->
+    <string name="venue_3_title">Iron Man4</string>
+
+    <string name="venue_3_intro">Iron Man4.</string>
+
+    <!-- Petroglyphs -->
+    <string name="venue_4_title">Iron Man5</string>
+
+    <string name="venue_4_intro">Iron Man5.</string>
+
+    <!-- Hike Maderas Volcano -->
+    <string name="venue_5_title">Iron Man6</string>
+
+    <string name="venue_5_intro">Iron Man6.</string>
+
+    <!-- El Zopilote Permaculture Farm -->
+    <string name="venue_6_title">Iron Man7</string>
+
+    <string name="venue_6_intro">Iron Man7.</string>
+
+    <!-- Hacienda Mérida -->
+    <string name="venue_7_title">SpiderMan1</string>
+
+    <string name="venue_7_intro">SpiderMan1</string>
+
+    <!-- Hospedaje Soma B&amp;B -->
+    <string name="venue_8_title">SpiderMan</string>
+    <string name="venue_8_featured">N/A</string>
+    <string name="venue_8_village">Moyogalpa</string>
+    <string name="venue_8_volcano">Concepción</string>
+    <string name="venue_8_category">Accommodation</string>
+    <string name="venue_8_intro">A relaxing, tranquil B&amp;B hotel with a swimming pool in a gorgeous garden setting located just on the edge of Moyogalpa. Accommodation options include private cabins, spacious rooms and a dormitory. Tours and activities offered.</string>
+    <string name="venue_8_website_url">http://hospedajesoma.com</string>
+    <string name="venue_8_map_url">https://goo.gl/maps/5V3GLamTnzk</string>
+    <string name="venue_8_features_services">Free Breakfast, Scooter &amp; ATV Rentals, Private Transportation, Bicycle Rentals, Massages, Manicures &amp; Pedicures, Laundry Services, Volcano Hikes, Horseback Riding, Kayaking.</string>
+    <string name="venue_8_phone_number">+505&#8211;2569&#8211;4310</string>
+
+    <!-- Café Campestre -->
+    <string name="venue_9_title">Café Campestre</string>
+    <string name="venue_9_featured">Yes</string>
+    <string name="venue_9_village">Balgüe / Santa Cruz / La Palma</string>
+    <string name="venue_9_volcano">Maderas</string>
+    <string name="venue_9_category">Dining</string>
+    <string name="venue_9_intro">Cafe Campestre prepares fresh food daily using organic ingredients many of which are from our farm. We are passionate about food and have created a varied and interesting menu featuring local and international cuisines. We have great local coffee, a relaxed environment, Wi&#8211;Fi and some of the most interesting and innovative English language tours on Ometepe.</string>
+    <string name="venue_9_website_url">http://campestreometepe.com</string>
+    <string name="venue_9_map_url">https://goo.gl/maps/JuQFrgZwrrQ2</string>
+    <string name="venue_9_features_services">Takeout, Outdoor Seating, Seating, Waitstaff, Serves Alcohol</string>
+    <string name="venue_9_phone_number">+505&#8211;8571&#8211;5930</string>
+
+    <!-- Pizzeria Buon Appetito -->
+    <string name="venue_10_title">Pizzeria Buon Appetito</string>
+    <string name="venue_10_featured">N/A</string>
+    <string name="venue_10_village">Moyogalpa</string>
+    <string name="venue_10_volcano">Concepción</string>
+    <string name="venue_10_category">Dining</string>
+    <string name="venue_10_intro">Moyogalpa\s favorite pizzeria, right on the main drag, offers a wide menu of pies, pastas and seafood dishes.</string>
+    <string name="venue_10_website_url">https://www.facebook.com/Pizzeria&#8211;buon&#8211;appetito&#8211;moyogalpa&#8211;271139696276678/</string>
+    <string name="venue_10_map_url">https://goo.gl/maps/JZcZhJ2iSfw</string>
+    <string name="venue_10_features_services">Italian, Pizza, Vegetarian Friendly</string>
+    <string name="venue_10_phone_number">+505&#8211;2569&#8211;4205</string>
+
+    <!-- Nectar Café -->
+    <string name="venue_11_title">Nectar Café</string>
+    <string name="venue_11_featured">N/A</string>
+    <string name="venue_11_village">Balgüe / Santa Cruz / La Palma</string>
+    <string name="venue_11_volcano">Maderas</string>
+    <string name="venue_11_category">Dining, Bars</string>
+    <string name="venue_11_intro">Suitable for vegetarians. Fresh salads. Vegetarian pastas. Freshly prepared food. The best smoothies. Natural juices&#8230;</string>
+    <string name="venue_11_website_url">https://www.facebook.com/nectarcafesantacruz</string>
+    <string name="venue_11_map_url">https://goo.gl/maps/2SYrzSHpur92</string>
+    <string name="venue_11_features_services">: Seating, Waitstaff, Parking Available, Street Parking, Serves Alcohol, Wine and Beer, Free Wi&#8211;Fi</string>
+    <string name="venue_11_phone_number">+505&#8211;5823&#8211;7308</string>
+
+    <!-- Xalli Restaurant &amp; Bar -->
+    <string name="venue_12_title">Xalli Restaurant &amp; Bar</string>
+    <string name="venue_12_featured">N/A</string>
+    <string name="venue_12_village">Santo Domingo</string>
+    <string name="venue_12_volcano">Concepción, Maderas</string>
+    <string name="venue_12_category">Dining, Bars</string>
+    <string name="venue_12_intro">Our restaurant offers freshly made and nutritionally balanced meals using organic and locally sourced produce. Our portions are generous, and motto is quality and taste! We also have a great wine list to compliment your meal.</string>
+    <string name="venue_12_website_url">https://www.xallihotel.com</string>
+    <string name="venue_12_map_url">https://goo.gl/maps/1FuE63wL2m62</string>
+    <string name="venue_12_features_services">Outdoor Seating, Waitstaff, Parking Available, Highchairs Available, Serves Alcohol, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Seating, Accepts Credit Cards</string>
+    <string name="venue_12_phone_number">+505&#8211;2569&#8211;4876</string>
+
+    <!-- Natural Restaurante Vegetariano -->
+    <string name="venue_13_title">Natural Restaurante Vegetariano</string>
+    <string name="venue_13_featured">N/A</string>
+    <string name="venue_13_village">Santo Domingo</string>
+    <string name="venue_13_volcano">Concepción, Maderas</string>
+    <string name="venue_13_category">Dining, Bars</string>
+    <string name="venue_13_intro">Vegetarian restaurant serving delicious breakfasts, lunches and dinners. Great pastas, curries, stirfries. Beach Dining with a wonderful view of the Maderas volcano. Connect to our wifi with your laptop/tablet/phone while enjoying a great coffee or glass of wine. And don\t miss our famous batidos! </string>
+    <string name="venue_13_website_url">http://natural.co.ni</string>
+    <string name="venue_13_map_url">https://goo.gl/maps/caTrzxBt9uD2</string>
+    <string name="venue_13_features_services">: Wheelchair Accessible, Outdoor Seating, Seating, Waitstaff, Free Off&#8211;Street Parking, Wine and Beer, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wi&#8211;Fi, Takeout, Reservations, Parking Available, Serves Alcohol</string>
+    <string name="venue_13_phone_number">+505&#8211;8583&#8211;1000</string>
+
+    <!-- The Cornerhouse Restaurant -->
+    <string name="venue_14_title">The Cornerhouse Restaurant</string>
+    <string name="venue_14_featured">Yes</string>
+    <string name="venue_14_village">Moyogalpa</string>
+    <string name="venue_14_volcano">Concepción</string>
+    <string name="venue_14_category">Dining</string>
+    <string name="venue_14_intro">Vegetarian restaurant serving delicious breakfasts, lunches and dinners. Great pastas, curries, stir&#8211;fries. Beach Dining with a wonderful view of the Maderas volcano. Connect to our Wi&#8211;Fi with your laptop/tablet/phone while enjoying a great coffee or glass of wine. And don\t miss our famous batidos!</string>
+    <string name="venue_14_website_url">http://www.thecornerhouseometepe.com</string>
+    <string name="venue_14_map_url">https://goo.gl/maps/r7SMCPNco1P2</string>
+    <string name="venue_14_features_services">Takeout, Seating, Waitstaff, Free Wi&#8211;Fi</string>
+    <string name="venue_14_phone_number">+505&#8211;2569&#8211;4177</string>
+
+</resources>

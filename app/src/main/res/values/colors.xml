@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#1a3b54</color>
+
+    <!-- Ultra dark color -->
+    <color name="ultra_dark_color">#0d1c28</color>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#16AFCA</color>
+
+    <!-- App title color -->
+    <color name="app_title_color">#99ffffff</color>
+
+    <!-- Light color -->
+    <color name="light_color">#16AFCA</color>
+
+    <!-- Semi-transparent Light color -->
+    <color name="light_color_semi_trans">#8016AFCA</color>
+
+    <!-- Accent colour for buttons -->
+    <color name="accent_color">#ff0066</color>
+
+    <!-- Accent colour for buttons 2 -->
+    <color name="accent_color2">#A4BC26</color>
+
+    <!-- Background color for app -->
+    <color name="app_background">#1a3b54</color>
+
+    <!-- White color -->
+    <color name="color_white">#FFFFFF</color>
+
+    <!-- Semi-transparent White color -->
+    <color name="color_white_semi_trans">#80FFFFFF</color>
+
+    <!-- Tab text color deselected -->
+    <color name="tab_default_color">#A8A19E</color>
+
+    <!-- Material design colors -->
+    <color name="colorPrimaryTextDefaultMaterialLight">#DE000000</color>
+    <color name="colorSecondaryTextDefaultMaterialLight">#8A000000</color>
+    <color name="colorPrimaryTextDefaultMaterialDark">#FFFFFFFF</color>
+    <color name="colorSecondaryTextDefaultMaterialDark">#B3FFFFFF</color>
+</resources>
